@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuolahnge.hca-asia.org/sitemap.xml
